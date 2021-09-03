@@ -1,1 +1,1 @@
-So , I am creating this type of chapter.txt file only because i am learning what i can do with github and i really liked this. This is most amazing plateform ever i see.
+So , I am creating this type of chapter.txt file only because i am learning what i can do with github and i really liked this. This is most amazing plateform ever i see. the thing happen to me while i am writing to this is that when i commiting this file in main branch i dont what happen file automatically saved and i my commit was not updated their so i have crate temporay branch to right this.
